@@ -1,3 +1,4 @@
 # public_playground
 
 secret_scanning_sample_token
+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
